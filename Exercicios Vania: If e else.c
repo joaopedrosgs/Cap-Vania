@@ -6,11 +6,11 @@ int main()
     /*
     // CALCULAR A DISTANCIA ENTRE DOIS PONTOS NO R3 ------------------------------------------------------------
     float a,b,c,d,e,f, distancia;
-    printf("digite os trÍs digitos do primeiro ponto, seguindo a ordem X,Y e Z");
+    printf("digite os tr√™s digitos do primeiro ponto, seguindo a ordem X,Y e Z");
     scanf("%f %f %f",&a, &b,&c);
 
 
-    printf("digite os trÍs digitos do segundo ponto, seguindo a ordem X,Y e Z");
+    printf("digite os tr√™s digitos do segundo ponto, seguindo a ordem X,Y e Z");
     scanf("%f %f %f",&d, &e,&f);100*
     distancia = pow((pow((a-d),2)+pow((b-e),2)+pow((c-f),2)), 0.5);
     printf("%f", distancia);
@@ -51,7 +51,7 @@ int main()
 
 
     /*
-    //CASAL DIFREN«A ------------------------------------------------------------
+    //CASAL DIFREN√áA ------------------------------------------------------------
         int idade1, idade2;
         char nome1[35], nome2[35];
         printf("digite o nome e a idade da primeira pessoa: ");
@@ -137,7 +137,7 @@ if ((a+b)>c | (a+c)>b | (b+c)>a) {
 
 
 }
-else {printf("n„o forma um triangulo");}
+else {printf("n√£o forma um triangulo");}
 
 
 
@@ -379,7 +379,7 @@ float metros;
 printf("digite a distancia em metros \n");
 scanf("%f", &metros);
 
-printf("pÈs: %f \n", metros*3.2808);
+printf("p√©s: %f \n", metros*3.2808);
 
 printf("centimetros: %f \n", metros*100);
 
