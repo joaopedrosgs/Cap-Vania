@@ -1,3 +1,6 @@
+/*3.  Escreva um programa que imprima todos os números primos compreendidos entre 1
+    e 100.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
