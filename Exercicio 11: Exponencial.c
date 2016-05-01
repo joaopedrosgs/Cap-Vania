@@ -1,3 +1,13 @@
+
+/*
+11. Desenvolver um algoritmo que calcule uma aproximação para o valor de exp(x)
+atraves da seguinte expressao:
+exp(x) = 1 + x +(x²/2!)
+O usuario deve fornecer como entrada tanto o valor de n (numero de termos da
+serie) quanto o valor de x (expoente).
+
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
