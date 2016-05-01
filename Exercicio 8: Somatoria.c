@@ -1,3 +1,9 @@
+
+/*
+8.) Fazer um algoritmo que calcule o valor de W:
+W = 1 −(2/4)+(3/9)−(4/16)+ ... +10/100
+
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
