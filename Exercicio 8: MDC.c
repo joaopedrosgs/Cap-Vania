@@ -1,3 +1,5 @@
+/*8. Dado 2 números inteiros não nulos, calcule o Máximo Divisor Comum (MDC). */
+
 #include<stdio.h>
 #include<stdlib.h>
 
