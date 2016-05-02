@@ -4,7 +4,7 @@
 int main(){
 
 int dias;
-char* dados="";
+char* dados= NULL;
 
 
  printf("%s%c%c\n","Content-Type:text/html;charset=UTF-8",13,10);
